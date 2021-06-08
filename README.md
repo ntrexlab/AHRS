@@ -18,7 +18,7 @@ GitHub -> [ntrexlab/AHRS_Text](https://github.com/ntrexlab/AHRS_Text)
          - CP2102 Micro USB to TTL 컨버터 모듈 - [SZH-CVBE-037](http://www.devicemart.co.kr/goods/view?no=1326839)
          - MAX3232 초소형 TTL to RS232 컨버터 모듈 - [SZH-CVBE-011](http://www.devicemart.co.kr/goods/view?no=1324909)
 
-        ![USBTTL](http://user-images.githubusercontent.com/85467544/120979105-33133380-c7b0-11eb-9055-7e11b6c82ead.png)
+       ![ahrscip](https://user-images.githubusercontent.com/85467544/121142880-65d42f00-c877-11eb-8725-b556d3cc96e2.png)
 ***
 
 
