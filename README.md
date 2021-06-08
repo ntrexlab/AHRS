@@ -17,14 +17,14 @@
          - CP2102 Micro USB to TTL 컨버터 모듈 - [SZH-CVBE-037](http://www.devicemart.co.kr/goods/view?no=1326839)
          - MAX3232 초소형 TTL to RS232 컨버터 모듈 - [SZH-CVBE-011](http://www.devicemart.co.kr/goods/view?no=1324909)
 
-        ![USBTTL](https://user-images.githubusercontent.com/85467544/120979105-33133380-c7b0-11eb-9055-7e11b6c82ead.png)
+        ![USBTTL](http://user-images.githubusercontent.com/85467544/120979105-33133380-c7b0-11eb-9055-7e11b6c82ead.png)
 ***
 
 
 * ### 2.Tool
     * #### 사용버전
-        - Arduino - Arduino-1.8.15-windows [설치경로](https://www.arduino.cc/en/software)
-        - AHRS_UI_180808 [설치경로-관련자료](https://www.devicemart.co.kr/goods/view?no=1310790)
+        - Arduino - Arduino-1.8.15-windows [설치경로](http://www.arduino.cc/en/software)
+        - AHRS_UI_180808 [설치경로-관련자료](http://www.devicemart.co.kr/goods/view?no=1310790#goods_file)
 ***
 
 * ### 3. 개발 순서
