@@ -1,5 +1,6 @@
 # AHRS_RS232_Arduino
-
+GitHub -> [ntrexlab/AHRS](https://github.com/ntrexlab/AHRS)
+***
 ## **Manual**
 ***
 * ### 1.HardWare
@@ -28,7 +29,7 @@
 ***
 
 * ### 3. 개발 순서
-    #### 1. AHRS_USB_TTL을 제작한다. 
+    #### 1. AHRS_USB_TTL to  RS232을 제작한다. 
     #### 2. AHRS_UI_180808을 설치한다.
     #### 3. AHRS_USB_TTL to RS232를 PC에 연결 후 AHRS_UI_180808을 실행한다.
     ![ahrs연](https://user-images.githubusercontent.com/85467544/120984205-660bf600-c7b5-11eb-887b-e4761f6ebaf7.png)
@@ -98,9 +99,10 @@
   * ### Test
    
     ![Ahrs_Test](https://user-images.githubusercontent.com/85467544/121108866-74a1ee00-c845-11eb-8a9d-585ce49a05cf.gif)
-    1. ss=1 -> 가속도 데이터 수신 설정.
-    2. sp=1000 -> 데이터 수신 속도 1000ms로 설정.(3000ms에서)
-    3. ss=4 -> 각도 데이터 수신 설정.
-    4. ss=15 -> 가속도, 각속도, 각도, 자기 데이터 수신 설정
-    5. ss=0 -> 데이터 전송 중단.
+    #### 1. ss=1 -> 가속도 데이터 수신 설정.
+    #### 2. sp=1000 -> 데이터 수신 속도 1000ms로 설정.(3000ms에서)
+    #### 3. ss=4 -> 각도 데이터 수신 설정.
+    #### 4. ss=15 -> 가속도, 각속도, 각도, 자기 데이터 수신 설정
+    #### 5. ss=0 -> 데이터 전송 중단.
 
+***
