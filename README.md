@@ -1,5 +1,5 @@
-# AHRS_RS232_Arduino
-GitHub -> [ntrexlab/AHRS](https://github.com/ntrexlab/AHRS)
+# AHRS_RS232_Text
+GitHub -> [ntrexlab/AHRS_Text](https://github.com/ntrexlab/AHRS_Text)
 ***
 ## **Manual**
 ***
