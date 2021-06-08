@@ -44,7 +44,7 @@
     12. Arduino 프로그램을 설치한다.
     ![아두이노](https://user-images.githubusercontent.com/85467544/121102517-bbd5b200-c838-11eb-9cf4-ec825570feec.png)
     13. 11번에서 제작한 Hardware를 연결 후 보드,프로세서,포트를 제작한 하드웨어에 맞게 설정한다.
-    14. 코드를 작성한다.
+    14. [코드](https://github.com/ntrexlab/AHRS/blob/main/AHRS_Serial_Text/AHRS_Serial_Text.ino)를 작성한다.
     
     
     ```c
@@ -65,7 +65,7 @@
         if (stringCheck) {  //stringCheck가 true 값이면 실행.
             Serial.println(ahrsString); //ahrsString 값 화면으로 출력.
             ahrsString = ""; //ahrsString 초기화 
-            stringCheck = false; /stringCheck를 false 값으로 저장.
+            stringCheck = false; //stringCheck를 false 값으로 저장.
  
         } 
     }
